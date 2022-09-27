@@ -1,0 +1,13 @@
+name: env_paperJMFU
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - xarray
+  - netcdf4
+  - cartopy
+  - shapely
+  - jupyterlab
+  - jupyter-panel-proxy
