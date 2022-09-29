@@ -5,9 +5,11 @@ dependencies:
   - python=3.8
   - numpy
   - matplotlib
-  - xarray
   - netcdf4
+  - xarray
   - cartopy
   - shapely
+  - scipy
+  - tqdm
   - jupyterlab
   - jupyter-panel-proxy
