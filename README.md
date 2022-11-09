@@ -1,4 +1,4 @@
-## paper_Winds_AtmPatterns_Seasonal_Interannual_TTS_MultipleInlet
+## paper_Atmospherically_Driven_Seasonal_Interannual_LTTS_MultipleInlet
 This repository contains scripts and data for reproducing the figures from the manuscript:
 
 > Fajardo-Urbina, J. M., Arts, G., Grawe, U., Herman, J. H., Gerkema, T., and Duran-Matute, M. (2022): Atmospherically Driven Seasonal and Interannual Variability in the Lagrangian Transport Time Scales of a Multiple-inlet Coastal System. 
