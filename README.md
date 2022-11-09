@@ -19,7 +19,7 @@ All the scripts (notebooks) necessary for reproducing the figures are in the fol
 **Jup-lab:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeancarloFU/paper_Winds_AtmPatterns_Seasonal_Interannual_TTS_MultipleInlet/main?urlpath=lab)
 
 ### Information about raw numerical data 
-The 8 netCDF files used to generate the figures, were obtained from the following raw data:
+The 9 netCDF files used to generate the figures, were obtained from the following raw data:
 
 - Eulerian data from the GETM/GOTM model, and its set-up is described in:
     * Duran-Matute et al. (2014): https://doi.org/10.5194/os-10-611-2014
