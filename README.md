@@ -4,7 +4,7 @@ This repository contains scripts and data for reproducing the figures from the m
 > Fajardo-Urbina, J. M., Arts, G., Grawe, U., Herman, J. H., Gerkema, T., and Duran-Matute, M. (2022): Atmospherically Driven Seasonal and Interannual Variability in the Lagrangian Transport Time Scales of a Multiple-inlet Coastal System. 
 
 ### Data
-There are in total 8 NetCDF files which can be used to reproduce Figure2 to Figure10 from the main manuscript. They are provided inside the folder [data](https://github.com/JeancarloFU/paper_Winds_AtmPatterns_Seasonal_Interannual_TTS_MultipleInlet/blob/main/data).
+There are in total 9 NetCDF files which can be used to reproduce Figure2 to Figure10 from the main manuscript. They are provided inside the folder [data](https://github.com/JeancarloFU/paper_Winds_AtmPatterns_Seasonal_Interannual_TTS_MultipleInlet/blob/main/data).
 
 ### Sofware
 The environment employed for the analysis is based on Python v3.8 and can be found in the file [environment.yml](https://github.com/JeancarloFU/paper_Winds_AtmPatterns_Seasonal_Interannual_TTS_MultipleInlet/blob/main/environment.yml).
