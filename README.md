@@ -27,5 +27,5 @@ The 9 netCDF files used to generate the figures, were obtained from the followin
 - Lagrangian data from the model Parcels v2.1.1, which can be installed from: 
     * https://anaconda.org/conda-forge/parcels
     * https://oceanparcels.org
-- Monthly mean sea level pressure (MSLP) from NCEP-NCAR Reanalysis 1 (used for the large-scale analytical model):
+- Monthly mean sea level pressure from NCEP-NCAR Reanalysis 1 (used for the large-scale analytical model):
     * https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
