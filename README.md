@@ -1,7 +1,7 @@
 ## paper_Atmospherically_Driven_Seasonal_Interannual_LTTS_MultipleInlet
-This repository contains scripts and data for reproducing the figures from the manuscript submitted to JGR: Oceans.
+This repository contains scripts and data for reproducing the figures from the manuscript:
 
-> Fajardo-Urbina, J. M., Arts, G., Grawe, U., Herman, J. H., Gerkema, T., and Duran-Matute, M. (2023): Atmospherically Driven Seasonal and Interannual Variability in the Lagrangian Transport Time Scales of a Multiple-inlet Coastal System. 
+> Fajardo-Urbina, J.M., Arts, G., Gräwe, U., Clercx, H.J.H., Gerkema, T., & Duran-Matute, M. (2023). Atmospherically Driven Seasonal and Interannual Variability in the Lagrangian Transport Time Scales of a Multiple-Inlet Coastal System. Journal of Geophysical Research: Oceans, 128, e2022JC019522. https://doi.org/10.1029/2022JC019522
 
 ### Data
 There are in total 9 NetCDF files which can be used to reproduce Figure2 to Figure10 from the main manuscript. They are provided inside the folder [data](https://github.com/JeancarloFU/paper_Atmospherically_Driven_Seasonal_Interannual_LTTS_MultipleInlet/blob/main/data).
